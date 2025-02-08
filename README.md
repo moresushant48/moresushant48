@@ -11,10 +11,6 @@
 
 ###
 
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/17664557?v=4"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
   <img width="12" />
